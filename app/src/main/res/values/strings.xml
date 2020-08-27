@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CGCameraX</string>
+    <string name="ocr_qr_warr_alignment">请将二维码对准屏幕正中央扫描框</string>
+</resources>
